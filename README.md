@@ -1,7 +1,7 @@
 # book-recsys
 Bookify is a web-based book recommendation system that uses collaborative filtering machine learning algorithms to suggest books to users based on their reading preferences.<br> Built using Flask, HTML, and CSS, Bookify provides a user-friendly interface for users to discover new books and authors.
 
-# Deployed Link : brs-python.koyeb.app
+- Deployed Link : [brs-python.koyeb.app]
 
  - Technologies Used:
 
